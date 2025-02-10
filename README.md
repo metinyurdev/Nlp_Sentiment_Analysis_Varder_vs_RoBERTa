@@ -107,8 +107,11 @@ jupyter notebook
 💡 **Final Thoughts:**  
 This project serves as a useful guide for those exploring **sentiment analysis in NLP**. Depending on the requirements (speed vs. accuracy), users can choose between
 
-📌 Author: [Metin YURDUSEVEN]
-📌 Contact: [metin.yrdsvn@gmail.com]
-📌 License: MIT
+## 📌 Author & Contact  
 
-🚀 Feel free to contribute, fork, or star this project! 🌟
+- **Author:** [Metin YURDUSEVEN]  
+- **📧 Contact:** [metin.yrdsvn@gmail.com]  
+- **📝 License:** MIT  
+
+🚀 *Feel free to contribute, fork, or star this project!* 🌟  
+
