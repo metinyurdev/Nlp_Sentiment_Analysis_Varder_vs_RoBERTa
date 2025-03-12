@@ -109,8 +109,8 @@ This project serves as a useful guide for those exploring **sentiment analysis i
 
 ## 📌 Author & Contact  
 
-- **Author:** [Metin YURDUSEVEN]  
-- **📧 Contact:** [metin.yrdsvn@gmail.com]  
+- **Author:** Metin YURDUSEVEN  
+- **📧 Contact:** metin.yrdsvn@gmail.com  
 - **📝 License:** MIT  
 
 🚀 *Feel free to contribute, fork, or star this project!* 🌟  
